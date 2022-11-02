@@ -1,0 +1,7 @@
+                                                                        ABSTRACT
+
+Human usually do their activities by using some parts of their body, with motion by 360 degree like hands, feet, motion of their neck or gesture activities to communicate as a signal to do some actions with computer. But, what if these parts have limitation to interact with a computer to perform a controllable action and tasks.
+
+One of the solution for the problem revealed is using eyes. Eyes have 6 exraocular muscles which are able to move left, right, up or down, because of these ability to move like another part of the body, it is suitable to be used as a subtitution for the assistive technology using eye gaze. The movement of the eyeball triggered by the contraction of the muscles, for the maximum vision range up to 2 meters.
+
+The technology which has developed more than 5 years implemented spreadly through some tools operates by measuring where the eye’s direction when looking or the motion of the eyeball with respect to the position of the head. Eye gaze bring an impact in the use of assistive technology when people who have injured or severe motor impairment such as cerebral palsy, muscular dystrophy, multiple sclerosis,  and also being used in websites, entertainment, sport events, commercials advertising, magazines and newspapers, logistic areas : packages and shelf displays, consumer systems (atm, checkout/ ticketing systems, kiosks), software such as gaming, e-book, mixed reality, marketing (digital or physical), aviation,  automotive, security.
