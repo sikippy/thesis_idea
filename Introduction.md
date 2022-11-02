@@ -33,3 +33,8 @@ Eye gaze tracking has many purpose to be implemented as it is good for these rea
 4. Psychology game, tracking user's character based on the first object they are looking at.
 5. Analyzing character of a person based on the direction from their first until their last seen object.
 6. Truth or lie detection, as from the pyschological aspects.
+7. Physical market as seen from IPSOS in Milano and Bari market, recorded visual behaviour of their customer optimally. They collaborate with SR Labs and they do research to correlate the eye physiology and behaviour response for visual stimulation.
+8. For bread or pasta beginner in cooking, who is practicing in the kitchen by reading the recipe and follow the instruction step by step
+9. Medical purpose, such as detecting the presence of Nystagmus, known as dancing eye which was founded in some infants. Detecting reading disability in early stage by optical analyzing using gaze movement.
+10. Doing searching on the web browser, scanning an image.
+11. Aviation and automotive areas to perform simulation of their pilot or driver
