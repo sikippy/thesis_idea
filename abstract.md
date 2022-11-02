@@ -1,4 +1,4 @@
-                                                                        ABSTRACT
+                                                                   ABSTRACT
 
 Human usually do their activities by using some parts of their body, with motion by 360 degree like hands, feet, motion of their neck or gesture activities to communicate as a signal to do some actions with computer. But, what if these parts have limitation to interact with a computer to perform a controllable action and tasks.
 
