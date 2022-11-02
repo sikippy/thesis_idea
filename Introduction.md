@@ -1,5 +1,4 @@
-1. 1. Definition of eye gaze trackers
-     Eye can be defined as b. all the visible structures within and surrounding the orbit and including eyelids, eyelashes and eyebrows ( Meriam-Webster dictionary).
+Eye can be defined as b. all the visible structures within and surrounding the orbit and including eyelids, eyelashes and eyebrows ( Meriam-Webster dictionary).
 
 While gaze : to look steadily at somebody/something for a long time, either because you are very interested or surprised, or because you are thinking of something else synonym stare (Oxford dictionary).
 
