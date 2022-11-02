@@ -14,3 +14,22 @@ Eye gaze trackers (EGT) are devices that can estimate the direction of gaze of a
 
 Based on the definition above, the definition of eye gaze trackers can be concluded as follow : a  device to record the trail/movement of visual function objects naming eyes in general (not limited for human only) as visible structures along with eyelids, eyebrow and eyelashes and used to look steadily and following the order direction of human’s attention continously.
 
+In some cases, head tracking and eye tracking are collaborated together, to provide better event detection and combination of both advantages to obtain accurate results. Eye tracking is applicable by joining with holograms, but an advice instead of using eye for producing precision, it is better to use hands.
+	Microsoft had some case study about eye gaze tracking and realized the advantages of using eye tracking instead any other gaze tracking as follow : instantaneous, less difficult, demanding no cursor, controllable movement along frequency rate, reliable for large targets.
+Despite of the advantages, there are also disadvantages such as : 
+1. it is not precise, because eyes move around in random and frequently.
+2. consider the design, it is should be attentive to provide hologram to get reliable feedback from the user.
+3. frequency rate and delay time are critical, the calculation must be precise to avoid easy to select or too long that can cause fatique or 
+inefficiency.
+4. the range of eye detection about 400-700 bilionth of a meter, known as a visible spectrum.
+5. it is difficult for people who lost their ability to see, or having visual impairment to interact with the interface. Eye should be clear enough and have to  be inside the visible spectrum area.
+
+Researcher has been improving eye gaze trackers technology, to offer win-win solution for user, scientific research, industrial in these areas :  websites, tv programs, sporting events, film and commercials, magazines and newspapers, logistic areas : packages and shelf displays, consumer systems (atm, checkout systems, kiosks), software such as gaming, e-book, mixed reality, health/medical, marketing ( digital or physical), aviation, automotive, engineering.
+
+Eye gaze tracking has many purpose to be implemented as it is good for these reasons :
+1. People tends to read fast and skip some e-learning contents, with eye tracker, we can analize how the users interact and are they really read the content.
+2. People with disabilities or spinal injury, they can't use voice, or another motion part of their body like neck,feet or hands
+3. Analyzing user experience through digital marketing and gain customer's insight from what the most content they have seen. why the attention being ignored or another path is being followed.
+4. Psychology game, tracking user's character based on the first object they are looking at.
+5. Analyzing character of a person based on the direction from their first until their last seen object.
+6. Truth or lie detection, as from the pyschological aspects.
